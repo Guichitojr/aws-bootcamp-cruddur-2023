@@ -290,3 +290,8 @@ volumes:
 
 
 ![Frontend-AWS](https://user-images.githubusercontent.com/125150565/222930889-5380fbd2-432d-4415-8327-9c5d5154ac09.png)
+
+
+# Security Practices
+![security best practices](https://user-images.githubusercontent.com/125150565/222931383-e364c3b2-a15c-4b1e-abaa-57a080b1500c.png)
+
